@@ -1,0 +1,7 @@
+Deposit;January;150.0;CREDIT
+Deposit;February;150.0;CREDIT
+Deposit;March;150.0;CREDIT
+Withdraw;March15,2017;100.0;DEBIT
+Withdraw;April;200;DEBIT
+Interest;Interest Earned;5;CREDIT
+

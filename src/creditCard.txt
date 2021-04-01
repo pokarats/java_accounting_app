@@ -1,0 +1,16 @@
+Personal;AirLine Ticket;1500.0;CREDIT
+Business;Travel Expense Airline Ticket;850.0;CREDIT
+Personal;XMas Gift;1500.0;CREDIT
+Refund;Merchant Return;-12.0;DEBIT
+Business;Reimbursed Travel Expense;-850.0;DEBIT
+Payment;Last Statement Payment;-250.0;DEBIT
+No Category;No description;540.0;CREDIT
+Business;Misc;250.0;CREDIT
+Personal;AirLine Ticket;1500.0;CREDIT
+Personal;XMas Gift;1500.0;CREDIT
+Refund;Merchant Return;-12.0;DEBIT
+Business;Reimbursed Travel Expense;-850.0;DEBIT
+Payment;Last Statement Payment;-250.0;DEBIT
+No Category;No description;540.0;CREDIT
+Business;Misc;250.0;CREDIT
+Personal;something not importangt;234.5;CREDIT

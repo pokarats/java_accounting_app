@@ -1,0 +1,25 @@
+Personal;PayCheck;1500.0;CREDIT
+Business;AirBnB Rental July;850.0;CREDIT
+Personal;PayCheck2;1500.0;CREDIT
+Restaurant;Lunch at Work;-12.0;DEBIT
+Business;Supplies;-35.0;DEBIT
+No Category;No description;-35.0;DEBIT
+No Category;No description;-540.0;DEBIT
+Business;Misc;-250.0;DEBIT
+Personal;PayCheck;1500.0;CREDIT
+Business;Supplies;-35.0;DEBIT
+No Category;No description;-35.0;DEBIT
+No Category;No description;-540.0;DEBIT
+Business;Misc;-250.0;DEBIT
+Personal;PayCheck;1500.0;CREDIT
+Personal;PayCheck;1500.0;CREDIT
+Personal;PayCheck2;1500.0;CREDIT
+Restaurant;Lunch at Work;-12.0;DEBIT
+No Category;No description;-35.0;DEBIT
+No Category;No description;-540.0;DEBIT
+Personal;PayCheck;1500.0;CREDIT
+Business;Supplies;-35.0;DEBIT
+No Category;No description;-35.0;DEBIT
+No Category;No description;-540.0;DEBIT
+Business;Misc;-250.0;DEBIT
+Personal;PayCheck;1500.0;CREDIT
