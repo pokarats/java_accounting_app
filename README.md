@@ -4,7 +4,8 @@ This is a simply Java program as part of 2017 CS261 assignment.
 
 ## Instructions
 
-TBD.
+1. clone the repo
+2. To test the program, run `javac TestAccount.java` in the src/ directory
 
 ## Design Analysis
 
