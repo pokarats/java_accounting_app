@@ -1,6 +1,6 @@
 # Simply Account App
 
-This is a simply Java program as part of 2017 CS261 assignment.
+This is a simply Java program as part of 2017 CS261.
 
 ## Instructions
 
