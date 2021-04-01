@@ -1,0 +1,17 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore IntelliJ .iml file and files in .idea/
+asgmt4.iml
+.idea/
+src/META-INF/*.MF
+
+# Ignore pages  and txt files
+*.pages
+*.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore out/ compiled files dir
+out/
